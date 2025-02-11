@@ -1,6 +1,9 @@
 # chatAI
 Created ChatAI bot using python and html
 
+![Uploading chaai.png…]()
+
+
 # Python AI Chatbot with Web Interface
 
 A simple, extensible chatbot application with a modern web interface built using Python, Flask, and vanilla JavaScript.
