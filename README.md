@@ -1,7 +1,8 @@
 # chatAI
 Created ChatAI bot using python and html
 
-![Uploading chaai.png…]()
+![chaai](https://github.com/user-attachments/assets/c0b9debb-f832-48b7-90d3-78534b241b22)
+
 
 
 # Python AI Chatbot with Web Interface
